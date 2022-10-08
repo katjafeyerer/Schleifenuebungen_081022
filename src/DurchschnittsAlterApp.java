@@ -8,9 +8,9 @@ public class DurchschnittsAlterApp {
         int value5 = 167;
         int value6 = 167;
         int value7 = 167;
-        int value8 = 167; //Strg + D --> die Zeile duplizieren
+        int value8 = 167; //Strg + D --> die Zeile duplizieren;
 
         //!!!Arrays: wichtig: gleicher Datentyp und gleicher Inhalt der Werte
-
+        /* Für Wochentage: for (0-6) initialisieren --> von Montag bis Dienstag*/
     }
 }
